@@ -1,0 +1,7 @@
+torch~=1.10.2
+python~=3.8.12
+tensorboard~=2.6.0
+matplotlib~=3.5.1
+pywavelets~=1.1.1
+numpy~=1.21.2
+pillow~=9.0.1

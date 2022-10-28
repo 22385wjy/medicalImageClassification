@@ -1,0 +1,6 @@
+This job runs on the following nodes:calculation03
+start on Tue Apr 19 22:04:27 CST 2022
+device== cuda
+ total data:  1000   c0/AD= 500   c1/NC= 500
+test mean Acc: 0.9900
+end on Tue Apr 19 22:07:35 CST 2022
