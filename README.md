@@ -22,13 +22,15 @@ fine-grained and multiple classification for AD
    python 8ADNCEMCILMCI_4classify_test.py
    
 
-### Checkpoint
+### Checkpoint   
 You can download here :
         ./Out_Mynet/ADNC_Classify/trained_model/best_model.pth
         
         or
         
         ./Out_Mynet/ADNCEMCILMCI_Classify/trained_model/best_model.pth
+        
+   ------ Owing to *.pth is large file, which exceeds GitHub's file size limit of 100.00MB, you can contact me for it if you need.
 
 ### Citation (Update it later)
 
