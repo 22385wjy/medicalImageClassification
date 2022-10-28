@@ -30,7 +30,7 @@ You can download here :
         
         ./Out_Mynet/ADNCEMCILMCI_Classify/trained_model/best_model.pth
         
-   ------ Owing to *.pth is large file, which exceeds GitHub's file size limit of 100.00MB, you can contact me for it if you need.
+   ------ Owing to *.pth is large file, which exceeds GitHub's file size limit of 100.00MB, You can download it from this link(https://pan.baidu.com/s/1Q6EJkQOlOWCZPx8NQqLJkg , code for extract: 9x3o ), or you can contact me for it if you need.
 
 ### Citation (Update it later)
 
