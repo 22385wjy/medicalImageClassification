@@ -34,10 +34,16 @@ You can download here :
 
 ### Citation (Update it later)
 
-If you find our code or our paper useful for your research, please cite our work:
+If you find our code or our paper useful for your research, please cite our work(wait for updating):
 
 ```
-
+@article{wen2023fine,
+  title={Fine-Grained and Multiple Classification for Alzheimer's Disease With Wavelet Convolution Unit Network},
+  author={Wen, Jinyu and Li, Yang and Fang, Meie and Zhu, Lei and Feng, David Dagan and Li, Ping},
+  journal={IEEE Transactions on Biomedical Engineering},
+  year={2023},
+  publisher={IEEE}
+}
 
 ```
 
